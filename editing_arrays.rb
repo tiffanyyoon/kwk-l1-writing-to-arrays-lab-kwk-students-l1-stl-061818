@@ -1,6 +1,7 @@
 rainbow_colors = ["yellow","default","light_cyan"]
   rainbow_colors.delete_at(1)
-
+  rainbow_colors.delete_at(1)
+  rainbow_colors.push ""
   # Write a solution that corrects the three colors in rainbow_colors, then returns the corrected array
   
 
