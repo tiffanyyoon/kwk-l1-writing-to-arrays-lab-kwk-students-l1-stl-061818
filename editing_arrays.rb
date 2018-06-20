@@ -1,6 +1,6 @@
 rainbow_colors = ["yellow","default","light_cyan"]
 
-def change_rainbow_colors
+def change_rainbo
   # Write a solution that corrects the three colors in rainbow_colors, then returns the corrected array
   rainbow_colors.delete_at(1)
 end
